@@ -1,0 +1,1 @@
+python -u src/crop.py example_image
